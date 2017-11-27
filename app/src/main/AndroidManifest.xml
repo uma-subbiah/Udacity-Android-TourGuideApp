@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.umasubbiah.tourguideapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/i2"
+        android:label="Welcome To Chennai! "
+        android:roundIcon="@mipmap/i2"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Places" android:label="Places" />
+        <activity android:name=".Things_to_do" android:label="Things" />
+        <activity android:name=".Restaurants" android:label="Eat" />
+        <activity android:name=".Tips" android:label="Tips" />
+        <activity android:name=".ImpInfo" android:label="Info" />
+        <activity android:name=".PlaceDetail" android:label="More Details" />
+    </application>
+
+</manifest>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="primary_color">#fff7da</color>
+
+    <color name="primary_dark_color">#bf0f82</color>
+
+    <color name="tan">#fff7da</color>
+
+    <color name="lilac">#afaa79e2</color>
+
+    <color name="turquoise">#7f1de2d8</color>
+
+    <color name="pink">#a5bf0f82</color>
+
+    <color name="orange">#96ef7904</color>
+
+    <color name="green">#965cc64e</color>
+
+    <color name="dark_blue">#a50652c6</color>
+
+    <color name="brown">#d2a13e33</color>
+
+    <color name="yellow">#caf5e904</color>
+</resources>

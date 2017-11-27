@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="places_to_see">Places to see</string>
+    <string name="things_to_do">Things to do</string>
+    <string name="restaurant">Restaurants</string>
+    <string name="tips">Tips</string>
+    <string name="imp_info">Important Info</string>
+
+    <string name="tip1">It can get quite warm in Chennai, so ensure that you carry a bottle of water with you at all times</string>
+    <string name="tip2">Always carry your personal ID card with you</string>
+    <string name="tip3">The weather can be quite unpredictable; ensure that you read the forecast before you start your day</string>
+    <string name="tip4">Most of the religious heritage sites in Chennai require visitors to dress in a specific attire, and remove any footwear before entry. Make sure you are aware of the rules before you visit these sites.</string>
+    <string name="tip5">Smaller shops are less likely to have an ATM/Credit card payment provision with them, so make sure you have enough change to spare.</string>
+    <string name="tip6">While auto rickshaws are fun to travel in, the drivers often charge a lot more than it actually costs. Ask a local guide before riding one.</string>
+    <string name="tip7">The Bay of Bengal (the sea seen from the shore) is know for its strong currents and swimming is not advisable</string>
+    <string name="tip8">Most of the locals speak fluent English, so you won\'t find communication a problem here :) </string>
+
+    <string name="info1">Population of Chennai = 7,088,000</string>
+    <string name="info2">Languages spoken = Tamil(native) and English </string>
+    <string name="info3">Electrical sockets are 240 Volts, 50 Hertz</string>
+    <string name="info4">Ambulance number = 108</string>
+    <string name="info5">Police number = 100</string>
+    <string name="info6">Fire control helpline number = 101</string>
+    <string name="info7">Child helpline number = 1098</string>
+    <string name="info8">Local Currency = Indian Rupee(INR) </string>
+
+    <string name="thing1">While you\'re travelling in Chennai, don\'t forget to take a ride in an auto rickshaw! These three wheeled glorified cycles are a lot of fun and a convenient way to explore the city!</string>
+    <string name="thing2">Be sure to watch a traditional Indian performance in Mylapore, the cultural centre of Chennai! There are dance performances, Carnatic music shows and classical art displays here throughout the year!</string>
+    <string name="thing3">Chennai\'s largest multiplex cinema complex has 6 levels of theatres and a 3D cinema for you to enjoy a movie during your stay in Chennai.</string>
+    <string name="thing4">The Marina Beach is India\'s longest natural urban beach, and is as beautiful as it\s name suggests... A must visit for every tourist in Chennai!</string>
+
+    <string name="place1">Marina Beach is the longest natural urban beach in India. A sandy beach, it stretches for 6.45km along the coast of the Bay of Bengal. This beach attracts over 30,000 visitors a day! Be sure to visit this beautiful beach before or after the midday sun, to avoid sunburn! Evenings are made colourful here with the kite flying and beach volleyball competitions.</string>
+    <string name="place2">Guindy National Park is a National Park of India. It plays a role in in-situ and ex-situ conservation of wildlife. This park is situated near the Raj Bhavan, which is the official residence of the Governor of TamilNadu. Covering an area of 2.7 squar kilomaters, this famous park attracts over 700,000 visitors a year!</string>
+    <string name="place3">Kapaleeshwar Temple is a temple devoted to the Hindu God, Lord Shiva. This temple was built in the 7th century CE, by the Pallava Kings of South India. The temple architecture is amazing and the wall paintings inside the temple depict many Hindu religious tales. The temple houses numerous shrines, which make this temple\'s structure one of the most complex in the world.</string>
+    <string name="place4">Fort St. George was the first British fortress built in India. Founded in 1644, it was initially intended to house European traders and settlers. It is currently the legislative assembly of Tamil Nadu. On these premises you can find St. Mary\'s church which is the oldest Anglican church in India, constructed between 1678 and 1680</string>
+    <string name="place5">Birla Planetarium is a large astronomical planetarium situated in Chennai. It was established in 1988, and is known to be the most modern planetarium in India. It houses state-of-the-art infrastructure and equipment for astronomical studies. Virtual tours of the night sky are also arranged here. </string>
+
+    <string name="eat1">This restaurant is famous for it\'s delicious North and South Indian food.\nAddress: 18/3, 1st floor, Sigapi Achi Building, Rukmani Lakshmipathy Road, Adjacent to Raja Muthaiya/Rani Meyammai Hall, Egmore, Chennai</string>
+    <string name="eat2">Craving Indo-Chinese cuisine? This is where you should head to!!\nAddress: 39, College Road, Nungambakkam, Chennai </string>
+    <string name="eat3">Luxury dining at this beautiful restaurant, with southern cuisine is heavenly! Address: Taj Coromandel, Tirumurthy Nagar, Nungambakkam, Chennai</string>
+    <string name="eat4">This restaurant has it all! This multi-cuisine restaurant is possibly the best in Chennai!\nAddress: 39, Velachery Road, Raj Bhavan Colony, Guindy, Chennai</string>
+    <string name="eat5">This bustling restaurant is famous for it\'s Thai cuisine.... An amazing dining experience awaits you!\nAddress: 146, TTK Road, Alwarpet, Chennai</string>
+
+    <string name="change1">Visit the World Famous Marina Beach</string>
+    <string name="change2">Take a Ride in an Auto Rickshaw</string>
+    <string name="change3">Watch a Classical Indian Arts Performance</string>
+    <string name="change4">Visit the Sathyam Cine Complex</string>
+    <string name="beach">Beach</string>
+    <string name="marina">Marina Beach</string>
+    <string name="park">Park</string>
+    <string name="hindu_temple">Hindu temple</string>
+    <string name="m_n_c"><![CDATA[Museum & Church]]></string>
+    <string name="astro">Astronomical Planetarium</string>
+    <string name="guindy_np">Guindy National Park</string>
+    <string name="kt">Kapaleeshwar Temple</string>
+    <string name="fsg">Fort St. George</string>
+    <string name="bp">Birla Planetarium</string>
+    <string name="ar">Annalakshmi Restaurant</string>
+    <string name="mar">The Marina</string>
+    <string name="spice">Southern Spice</string>
+    <string name="tfe">The FLying Elephant</string>
+    <string name="br">Benjarong Restaurant</string>
+
+</resources>
